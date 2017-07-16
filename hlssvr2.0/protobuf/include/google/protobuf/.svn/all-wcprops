@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf
+END
+wire_format_lite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/wire_format_lite.cc
+END
+unittest_lite.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_lite.pb.cc
+END
+wire_format_lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/wire_format_lite.h
+END
+text_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/text_format.h
+END
+unittest_empty.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_empty.pb.h
+END
+generated_message_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/generated_message_util.cc
+END
+generated_message_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/generated_message_util.h
+END
+message_lite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/message_lite.cc
+END
+repeated_field_reflection_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/repeated_field_reflection_unittest.cc
+END
+unittest_import_public.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import_public.pb.cc
+END
+unittest_import_public.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import_public.pb.h
+END
+unittest_import.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import.pb.h
+END
+generated_message_reflection.cc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/generated_message_reflection.cc
+END
+unknown_field_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unknown_field_set.cc
+END
+test_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/test_util.h
+END
+wire_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/wire_format.h
+END
+unittest_import_public_lite.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import_public_lite.pb.cc
+END
+unittest_import_lite.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import_lite.pb.cc
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/message.h
+END
+repeated_field_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/repeated_field_unittest.cc
+END
+text_format.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/text_format.cc
+END
+unittest_embed_optimize_for.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_embed_optimize_for.pb.cc
+END
+unittest_lite_imports_nonlite.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_lite_imports_nonlite.pb.h
+END
+unittest_optimize_for.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_optimize_for.pb.h
+END
+test_util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/test_util.cc
+END
+descriptor_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor_unittest.cc
+END
+descriptor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor.cc
+END
+message.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/message.cc
+END
+extension_set.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/extension_set.cc
+END
+dynamic_message_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/dynamic_message_unittest.cc
+END
+unittest_import_lite.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import_lite.pb.h
+END
+extension_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/extension_set.h
+END
+test_util_lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/test_util_lite.h
+END
+unittest_empty.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_empty.pb.cc
+END
+repeated_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/repeated_field.h
+END
+wire_format_lite_inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/wire_format_lite_inl.h
+END
+descriptor_database_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor_database_unittest.cc
+END
+service.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/service.h
+END
+descriptor_database.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor_database.cc
+END
+message_lite.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/message_lite.h
+END
+unittest_mset.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_mset.pb.cc
+END
+unittest_import.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import.pb.cc
+END
+unittest_mset.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_mset.pb.h
+END
+unittest_no_generic_services.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_no_generic_services.pb.cc
+END
+generated_message_reflection_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/generated_message_reflection_unittest.cc
+END
+reflection_ops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/reflection_ops.cc
+END
+reflection_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/reflection_ops.h
+END
+descriptor.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor.pb.cc
+END
+unknown_field_set.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unknown_field_set.h
+END
+descriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor.h
+END
+unittest_custom_options.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_custom_options.pb.h
+END
+extension_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/extension_set_unittest.cc
+END
+dynamic_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/dynamic_message.h
+END
+text_format_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/text_format_unittest.cc
+END
+repeated_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/repeated_field.cc
+END
+lite_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/lite_unittest.cc
+END
+unittest_lite.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_lite.pb.h
+END
+generated_enum_reflection.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/generated_enum_reflection.h
+END
+service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/service.cc
+END
+unittest_lite_imports_nonlite.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_lite_imports_nonlite.pb.cc
+END
+unittest_embed_optimize_for.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_embed_optimize_for.pb.h
+END
+descriptor_database.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor_database.h
+END
+unittest_optimize_for.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_optimize_for.pb.cc
+END
+package_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/package_info.h
+END
+reflection_ops_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/reflection_ops_unittest.cc
+END
+unittest_no_generic_services.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_no_generic_services.pb.h
+END
+unknown_field_set_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unknown_field_set_unittest.cc
+END
+wire_format_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/wire_format_unittest.cc
+END
+generated_message_reflection.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/generated_message_reflection.h
+END
+wire_format.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/wire_format.cc
+END
+unittest.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest.pb.cc
+END
+descriptor.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/descriptor.pb.h
+END
+unittest.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest.pb.h
+END
+extension_set_heavy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/extension_set_heavy.cc
+END
+message_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/message_unittest.cc
+END
+unittest_custom_options.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_custom_options.pb.cc
+END
+unittest_import_public_lite.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/unittest_import_public_lite.pb.h
+END
+dynamic_message.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/dynamic_message.cc
+END
+test_util_lite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/test_util_lite.cc
+END

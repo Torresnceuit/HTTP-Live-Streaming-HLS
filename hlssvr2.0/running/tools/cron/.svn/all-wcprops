@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron
+END
+check_ccd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_ccd.sh
+END
+check_dcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_dcc.sh
+END
+check_ccd2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_ccd2.sh
+END
+check_dcc2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_dcc2.sh
+END
+check_ccd3.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_ccd3.sh
+END
+check_ccd4.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_ccd4.sh
+END
+check_ccd5.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_ccd5.sh
+END
+check_submcd_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_submcd_log.sh
+END
+check_ccd6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_ccd6.sh
+END
+check_mcd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_mcd.sh
+END
+check_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_all.sh
+END
+check_core.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/tools/cron/check_core.sh
+END

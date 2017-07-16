@@ -1,0 +1,41 @@
+9
+
+dir
+19434
+http://49.213.74.226/UTalkProject/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf
+http://49.213.74.226/UTalkProject
+
+
+
+2015-11-24T04:00:28.735061Z
+18893
+dungdv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+include
+dir
+
+lib
+dir
+

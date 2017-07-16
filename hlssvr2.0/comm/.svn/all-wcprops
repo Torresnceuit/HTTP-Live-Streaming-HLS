@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm
+END
+tfc_base_config_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_base_config_file.h
+END
+tfc_cache_hash_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_hash_map.cpp
+END
+tfc_thread_sync.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_thread_sync.cpp
+END
+tfc_base_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_base_config.h
+END
+tfc_cache_chunk_alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_chunk_alloc.cpp
+END
+tfc_net_conn_map.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_conn_map.hpp
+END
+tfc_binlog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_binlog.cpp
+END
+tfc_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_object.h
+END
+tfc_net_epoll_flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_epoll_flow.h
+END
+tfc_net_mem_pool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_mem_pool.cpp
+END
+tfc_str.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_str.hpp
+END
+tfc_net_ccd_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_ccd_define.h
+END
+tfc_diskcache_hash_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_diskcache_hash_map.cpp
+END
+tfc_binlog.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_binlog.hpp
+END
+tfc_ipc_sv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_ipc_sv.cpp
+END
+tfc_net_ipc_mq.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_ipc_mq.h
+END
+tfc_diskcache_chunk_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_diskcache_chunk_alloc.h
+END
+tfc_debug_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_debug_log.cpp
+END
+tfc_stat_v2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_stat_v2.h
+END
+tfc_ipc_sv.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_ipc_sv.hpp
+END
+tfc_cache_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_access.h
+END
+tfc_cache_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_proc.h
+END
+tfc_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_error.h
+END
+tfc_base_config_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_base_config_file.cpp
+END
+tfc_diskcache_access.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_diskcache_access.h
+END
+tfc_base_str.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_base_str.h
+END
+tfc_cache_hash_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_hash_map.h
+END
+tfc_net_epoll_flow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_epoll_flow.cpp
+END
+tfc_thread_sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_thread_sync.h
+END
+tfc_cache_chunk_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_chunk_alloc.h
+END
+tfc_net_ipc_mq.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_ipc_mq.cpp
+END
+tfc_diskcache_chunk_alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_diskcache_chunk_alloc.cpp
+END
+tfc_ex.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_ex.hpp
+END
+tfc_net_mem_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_mem_pool.h
+END
+tfc_stat_v2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_stat_v2.cpp
+END
+tfc_diskcache_hash_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_diskcache_hash_map.h
+END
+tfc_cache_access.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_access.cpp
+END
+tfc_cache_proc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_cache_proc.cpp
+END
+tfc_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_error.cpp
+END
+tfc_base_comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_base_comm.h
+END
+tfc_heap_guardian.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_heap_guardian.hpp
+END
+tfc_debug_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_debug_log.h
+END
+tfc_diskcache_access.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_diskcache_access.cpp
+END
+tfc_comm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_comm.h
+END
+tfc_net_conn_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/comm/tfc_net_conn_map.cpp
+END

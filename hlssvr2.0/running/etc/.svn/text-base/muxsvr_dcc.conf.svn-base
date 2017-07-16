@@ -1,0 +1,9 @@
+<root>
+    req_mq_conf = ../etc/mq_dcm/mq_dcm_2_dcc.conf
+    rsp_mq_conf = ../etc/mq_dcm/mq_dcc_2_dcm.conf
+
+    complete_so_file = ./ss_udp_complete.so
+
+    max_conn = 120000
+    timeout = 60
+</root>

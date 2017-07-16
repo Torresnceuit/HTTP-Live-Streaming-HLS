@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json
+END
+json_valueiterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_valueiterator.inl
+END
+json_batchallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_batchallocator.h
+END
+json_internalmap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_internalmap.inl
+END
+json_internalarray.inl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_internalarray.inl
+END
+json_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_value.cpp
+END
+json_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_writer.cpp
+END
+json_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_reader.cpp
+END
+json_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/json/json_tool.h
+END

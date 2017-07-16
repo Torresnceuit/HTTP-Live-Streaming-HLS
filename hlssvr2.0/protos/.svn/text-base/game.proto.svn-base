@@ -1,0 +1,29 @@
+package gamesvr_protos;
+
+enum QT_PUSH_CMD
+{
+	QT_CMD_QT_PUSH		= 26003;    	//push cmd
+	QT_CMD_QT_ACK		= 26004;		//ack cmd
+}
+
+enum DATA_TYPE
+{
+	AUDIO_ONLY 			= 0x01;
+	AUDIO_WITH_VIDEO	= 0x02;
+}
+
+message QtPushMessage
+{
+	required uint32 uin 			= 1;           	//用户UIN
+	required uint32 room_id 		= 2;	    	//房间id
+	required uint32 videoid_type 	= 3;  			//数据类型（1:音频 2:音视频）
+	required uint32 sessionid		= 4;			//一直往上加
+	required uint32 time			= 5;			//当前时间
+}
+
+message QtAckMessage
+{
+	required uint32 uin 			= 1;
+	required uint32 room_id 		= 2;
+	required uint32 sessionid		= 3;			//回复sessionid
+}

@@ -1,0 +1,156 @@
+package liveprogrammgr_protos;
+
+//subcmd 0x3400 0x01
+enum CMD
+{
+	CMD_LIVEPROGRAMMGR = 0x3400;
+}
+enum SUBCMD
+{
+	SUBCMD_GET_PROGRAM 				  = 0x01;
+	SUBCMD_NOTIFY_VIDEOID_STATUS 	  = 0x02;
+	SUBCMD_GET_ALL_VIDEOID			  = 0x04;
+	SUBCMD_GET_BIG_PROGRAM			  = 0x05;//返回只需要合流的(videosvr)
+	SUBCMD_GET_BIG_ALL_VIDEOID		  = 0x06;
+	SUBCMD_GET_NEED_TRANSCODE_PROGRAM = 0x07;//返回需要先转码后合流的(streamsvr)
+	SUBCMD_GET_ALL_PROGRAM 			  = 0x08;//返回所有需要合流的(voiceregister)
+	SUBCMD_GET_ALL_VIDINFO			  = 0x09;//返回所有需要合流的module和vid对应关系(liveaccesssvr)
+}
+
+enum VIDEO_STATUS
+{
+	VIDEO_START			= 0x01;
+	VIDEO_STOP			= 0x02;
+	VIDEO_HEART_BEAT	= 0x03;
+}
+
+enum RESULT_CODE
+{
+	RESULT_SUCCESS = 0;
+	RESULT_INVALID_TYPE = 1;
+	RESULT_TYPE_NOT_FOUND = 2;
+	RESULT_GET_LIST_FAILED = 3;
+}
+
+enum STREAM_FORMAT
+{
+	FORMAT_FLV = 1;
+	FORMAT_TS = 2;
+}
+
+message ProgramInfo
+{
+	required uint32 uiRoomId = 1;
+	required uint32 uiVideoId = 2;
+	required uint32 uiMuxSvrIp = 3;
+	optional uint32 uiStreamFormat = 4;
+}
+
+message SNotifyVideoStatus
+{
+	required uint32 uiStatus			= 1;
+	required uint64 uiUin 				= 2;
+	required uint32 uiRoomId 			= 3;
+	required uint32 uiMainRoomId		= 4;
+	required uint32 uiRoomType			= 5;
+	required uint32 uiVideoId			= 6;
+	required uint32 uiSelfInternalIp	= 7;
+	required uint32 uiSelfExternalIp	= 8;
+	optional uint32 uiBitRate 			= 9;
+}
+
+//拉取节目信息
+message GetProgramInfoReq
+{
+}
+
+message GetProgramInfoRsp
+{
+	required uint32 Result = 1;
+	repeated ProgramInfo ProgramList = 2;
+}
+
+message VideoIdItem
+{
+	required bytes ProgramType = 1;
+	required uint32 uiVideoId = 2;
+    optional uint32 uiAccessType = 3;
+    optional uint32 uiCdnType = 4;
+    optional uint32 uiMaxBandWidth = 5;
+    optional uint32 uiTotalBandWidth = 6;
+}
+
+//旧协议：拉取module和vid对应关系
+message GetAllProgramVideoIdReq
+{
+}
+
+message GetAllProgramVideoIdRsp
+{
+	required uint32 Result = 1;
+	repeated VideoIdItem VideoIdList = 2;
+}
+
+
+message VidInfoItem
+{
+	required uint32 uiVideoId = 1;
+    optional uint32 uiAccessType = 2;
+    optional uint32 uiCdnType = 3;
+    optional uint32 uiMaxBandWidth = 4;
+    optional uint32 uiTotalBandWidth = 5;
+
+//再讨论	
+	optional uint32 uiBitRate = 6;
+	optional uint32 uiWidth = 7;
+	optional uint32 uiHeight = 8;
+	optional uint32 uiFps = 9;
+}
+
+//一个module对应多个vid
+message VidInfoList
+{
+	required bytes ProgramType = 1;
+	repeated VidInfoItem VidInfo = 2;
+}
+
+
+//新协议：拉取module和vid对应关系，支持转码后合流
+message GetAllProgramVidInfoReq
+{
+}
+
+message GetAllProgramVideInfoRsp
+{
+	required uint32 Result = 1;
+	repeated VidInfoList InfoList = 2;
+}
+
+
+message DbProgramInfo
+{
+	required uint32 uiVideoId = 1;
+	required uint32 uiRoomId = 2;
+	required uint32 uiMuxSvrIp = 3;
+	required uint32 uiStreamFormat = 4;
+	optional uint32 uiBackFrameCnt = 5;
+	optional uint32 uiBufferFrameCount = 6;
+	optional uint32 uiP2PBackTime = 7;
+}
+
+message DbModuleInfo
+{
+	required bytes strModule = 1;
+	required uint32 uiVideoId = 2;
+	required uint32 uiAccessType = 3;
+	optional uint32 uiCdnType = 4;
+	optional uint32 uiMaxBandWidth = 5;
+	optional uint32 uiTotalBandWidth = 6;
+}
+
+message AllDbProgramInfo
+{
+    required bytes strUpdateTime = 1;
+	repeated DbProgramInfo dbProgramInfoList = 2;
+	repeated DbModuleInfo dbModuleInfoList = 3;
+}

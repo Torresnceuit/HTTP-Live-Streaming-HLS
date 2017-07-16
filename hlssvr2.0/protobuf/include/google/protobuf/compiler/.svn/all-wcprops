@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler
+END
+parser_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/parser_unittest.cc
+END
+mock_code_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/mock_code_generator.h
+END
+parser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/parser.cc
+END
+test_plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/test_plugin.cc
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/parser.h
+END
+plugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/plugin.cc
+END
+plugin.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/plugin.pb.cc
+END
+zip_writer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/zip_writer.cc
+END
+importer_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/importer_unittest.cc
+END
+plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/plugin.h
+END
+plugin.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/plugin.pb.h
+END
+zip_writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/zip_writer.h
+END
+importer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/importer.cc
+END
+importer.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/importer.h
+END
+command_line_interface_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/command_line_interface_unittest.cc
+END
+command_line_interface.cc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/command_line_interface.cc
+END
+zip_output_unittest.sh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/zip_output_unittest.sh
+END
+command_line_interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/command_line_interface.h
+END
+package_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/package_info.h
+END
+plugin.proto
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/plugin.proto
+END
+code_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/code_generator.cc
+END
+code_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/code_generator.h
+END
+main.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/main.cc
+END
+subprocess.cc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/subprocess.cc
+END
+mock_code_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/mock_code_generator.cc
+END
+subprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/subprocess.h
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp
+END
+cpp_message_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_message_field.h
+END
+cpp_plugin_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_plugin_unittest.cc
+END
+cpp_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_options.h
+END
+cpp_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_service.h
+END
+cpp_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_helpers.cc
+END
+cpp_enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_enum.h
+END
+cpp_test_bad_identifiers.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_test_bad_identifiers.pb.cc
+END
+cpp_bootstrap_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_bootstrap_unittest.cc
+END
+cpp_extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_extension.h
+END
+cpp_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_message.h
+END
+cpp_test_bad_identifiers.proto
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_test_bad_identifiers.proto
+END
+cpp_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_generator.h
+END
+cpp_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_service.cc
+END
+cpp_enum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_enum.cc
+END
+cpp_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_helpers.h
+END
+cpp_enum_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_enum_field.cc
+END
+cpp_string_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_string_field.cc
+END
+cpp_enum_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_enum_field.h
+END
+cpp_string_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_string_field.h
+END
+cpp_primitive_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_primitive_field.cc
+END
+cpp_test_bad_identifiers.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_test_bad_identifiers.pb.h
+END
+cpp_extension.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_extension.cc
+END
+cpp_primitive_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_primitive_field.h
+END
+cpp_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_unittest.cc
+END
+cpp_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_file.cc
+END
+cpp_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_file.h
+END
+cpp_unittest.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_unittest.h
+END
+cpp_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_field.cc
+END
+cpp_message.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_message.cc
+END
+cpp_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_field.h
+END
+cpp_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_generator.cc
+END
+cpp_message_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/cpp/cpp_message_field.cc
+END

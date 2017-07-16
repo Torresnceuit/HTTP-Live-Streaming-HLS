@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/submcd_log
+END
+muxsvr_submcd_log_cfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/submcd_log/muxsvr_submcd_log_cfg.cpp
+END
+muxsvr_submcd_log_proc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/submcd_log/muxsvr_submcd_log_proc.cpp
+END
+muxsvr_submcd_log_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/submcd_log/muxsvr_submcd_log_cfg.h
+END
+muxsvr_submcd_log_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/submcd_log/muxsvr_submcd_log_proc.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/submcd_log/makefile
+END

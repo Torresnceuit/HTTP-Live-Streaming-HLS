@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/UTalkProject/!svn/ver/19270/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls
+END
+hls_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_core.c
+END
+hls_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19144/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_stream.c
+END
+hls_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_core.h
+END
+hls_mpegts.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19780/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_mpegts.c
+END
+hls_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/18962/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_utils.c
+END
+hls_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19780/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_stream.h
+END
+hls_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/19780/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_cache.c
+END
+hls_mpegts.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19219/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_mpegts.h
+END
+hls_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_utils.h
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/UTalkProject/!svn/ver/18995/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/tags
+END
+hls_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/18959/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_cache.h
+END
+hls_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/19206/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_types.h
+END
+.dirstamp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/.dirstamp
+END
+hls_bitread.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_bitread.c
+END
+hls_buf.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_buf.c
+END
+hls_bitread.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_bitread.h
+END
+hls_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_log.c
+END
+hls_buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UTalkProject/!svn/ver/18962/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_buf.h
+END
+hls_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_file.h
+END
+hls_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls/hls_log.h
+END

@@ -1,0 +1,23 @@
+
+package muxsvr_protos;
+
+message SMuxFrameInfo
+{
+    required uint32 uiUin 			= 1;
+	required uint32 uiRoomId 		= 2;
+	required uint32 uiMainRoomId    = 3; 
+    required uint32 uiFrameSeq 		= 4;
+	required uint32 uiVideoId		= 5;
+	required uint32 uiRoomType      = 6;
+	required uint32 uiKeyFrame		= 7;
+    required bytes StrMediaInfo 	= 8;
+    required bytes StrFrame 		= 9;
+    required uint32 uiWidth			= 10;
+    required uint32 uiHeight		= 11;
+    required uint32 uiFps			= 12;
+    required uint32 uiBitRate		= 13;
+    required uint32 uiFrameOrignSize= 14;
+    required uint32 uiFrameTime		= 15; 
+    optional uint32 uiOriginalVideoId=16;
+}
+

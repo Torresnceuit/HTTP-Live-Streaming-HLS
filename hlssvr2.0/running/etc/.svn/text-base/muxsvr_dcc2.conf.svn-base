@@ -1,0 +1,9 @@
+<root>
+    req_mq_conf = ../etc/mq_dcm/mq_dcm_2_dcc2.conf
+    rsp_mq_conf = ../etc/mq_dcm/mq_dcc2_2_dcm.conf
+
+    complete_so_file = ./ss_tcp_complete.so
+
+    max_conn = 1200
+    timeout = 60
+</root>

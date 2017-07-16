@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/etc/mq_dcm
+END
+mq_dcc2_2_dcm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/etc/mq_dcm/mq_dcc2_2_dcm.conf
+END
+mq_dcm_2_dcc2.conf
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/etc/mq_dcm/mq_dcm_2_dcc2.conf
+END
+mq_dcc_2_dcm.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/etc/mq_dcm/mq_dcc_2_dcm.conf
+END
+mq_dcm_2_dcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/running/etc/mq_dcm/mq_dcm_2_dcc.conf
+END

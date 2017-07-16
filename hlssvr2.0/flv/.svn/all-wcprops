@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/UTalkProject/!svn/ver/19144/Server/Project/Video/hlssvr/trunk/hlssvr2.0/flv
+END
+flv_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/19144/Server/Project/Video/hlssvr/trunk/hlssvr2.0/flv/flv_parser.cpp
+END
+flv_bytestream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/flv/flv_bytestream.cpp
+END
+flv_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/18916/Server/Project/Video/hlssvr/trunk/hlssvr2.0/flv/flv_parser.h
+END
+flv_bytestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/flv/flv_bytestream.h
+END
+flv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/flv/flv.h
+END

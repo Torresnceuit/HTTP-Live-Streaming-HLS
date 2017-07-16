@@ -1,0 +1,309 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ACC_HEADER_LEN	hls_stream.h	44;"	d
+AVC_HEADER_LEN	hls_stream.h	43;"	d
+DEBUG	hls_log.h	64;"	d
+ERROR	hls_log.h	78;"	d
+FATAL	hls_log.h	84;"	d
+HLS_AUDIO_BUF_LEN	hls_buf.h	51;"	d
+HLS_BUFSIZE	hls_types.h	59;"	d
+HLS_DEBUG	hls_log.h	/^   HLS_DEBUG = 1,$/;"	e
+HLS_DELAY	hls_mpegts.c	108;"	d	file:
+HLS_ERROR	hls_log.h	/^   HLS_ERROR = 3,$/;"	e
+HLS_FATAL	hls_log.h	/^   HLS_FATAL = 4$/;"	e
+HLS_HASHLEN	hls_types.h	50;"	d
+HLS_HASHTIME	hls_types.h	49;"	d
+HLS_INFO	hls_log.h	/^   HLS_INFO = 0,$/;"	e
+HLS_MAX_TS_LEN	hls_types.h	52;"	d
+HLS_MPEGTS_KEY	hls_types.h	47;"	d
+HLS_NAMING_SEQUENTIAL	hls_types.h	64;"	d
+HLS_NAMING_SYSTEM	hls_types.h	66;"	d
+HLS_NAMING_TIMESTAMP	hls_types.h	65;"	d
+HLS_PLAYLIST_LEN	hls_buf.h	50;"	d
+HLS_SESSION_KEY	hls_types.h	48;"	d
+HLS_TYPE_EVENT	hls_types.h	62;"	d
+HLS_TYPE_LIVE	hls_types.h	61;"	d
+HLS_WARN	hls_log.h	/^   HLS_WARN = 2,$/;"	e
+INFO	hls_log.h	74;"	d
+LOG	hls_log.h	59;"	d
+MAX_FRAGMENT_NUM	hls_buf.h	40;"	d
+MAX_PATH	hls_types.h	58;"	d
+O_BINARY	hls_types.h	54;"	d
+PRINT_LEN	hls_utils.h	42;"	d
+TRACE	hls_log.h	62;"	d
+WARN	hls_log.h	75;"	d
+WIN_FRAGMENT_NUM	hls_buf.h	39;"	d
+_HLS_BITREAD_H_	hls_bitread.h	33;"	d
+_HLS_BUFFER_H_	hls_buf.h	33;"	d
+_HLS_CORE_H_	hls_core.h	33;"	d
+_HLS_FILE_H_	hls_file.h	33;"	d
+_HLS_HASHBASE_H_	hls_cache.h	2;"	d
+_HLS_LOG_H_	hls_log.h	32;"	d
+_HLS_MPEGTS_H_	hls_mpegts.h	33;"	d
+_HLS_STREAM_H_	hls_stream.h	33;"	d
+_HLS_TYPES_H_	hls_types.h	33;"	d
+_HLS_UTILS_H_	hls_utils.h	33;"	d
+_WITH_DPRINTF	hls_log.c	31;"	d	file:
+__STDC_FORMAT_MACROS	hls_mpegts.c	36;"	d	file:
+aac_chan_conf	hls_stream.h	/^    uint32_t        aac_chan_conf;$/;"	m	struct:hls_codec_ctx
+aac_header	hls_stream.h	/^    hls_buf_t      *aac_header;$/;"	m	struct:hls_codec_ctx
+aac_header_buf	hls_stream.h	/^    hls_buf_t       aac_header_buf;$/;"	m	struct:hls_codec_ctx
+aac_header_data	hls_stream.h	/^    char            aac_header_data[ACC_HEADER_LEN];$/;"	m	struct:hls_codec_ctx
+aac_profile	hls_stream.h	/^    uint32_t        aac_profile;$/;"	m	struct:hls_codec_ctx
+aac_ps	hls_stream.h	/^    uint32_t        aac_ps;$/;"	m	struct:hls_codec_ctx
+aac_sbr	hls_stream.h	/^    uint32_t        aac_sbr;$/;"	m	struct:hls_codec_ctx
+active	hls_mpegts.h	/^    unsigned    active:1;$/;"	m	struct:hls_frag
+aframe	hls_mpegts.h	/^    hls_buf_t            aframe;$/;"	m	struct:hls_mpegts_ctx
+aframe_base	hls_mpegts.h	/^    uint64_t             aframe_base;$/;"	m	struct:hls_mpegts_ctx
+aframe_num	hls_mpegts.h	/^    uint64_t             aframe_num;$/;"	m	struct:hls_mpegts_ctx
+aframe_pts	hls_mpegts.h	/^    uint64_t             aframe_pts;$/;"	m	struct:hls_mpegts_ctx
+audio_buffer_size	hls_core.h	/^   uint32_t           audio_buffer_size;$/;"	m	struct:hls_config
+audio_buffer_size	hls_stream.h	/^   uint32_t           audio_buffer_size;$/;"	m	struct:hls_session
+audio_cc	hls_mpegts.h	/^    uint32_t             audio_cc;$/;"	m	struct:hls_mpegts_ctx
+audio_channels	hls_stream.h	/^    uint32_t        audio_channels; \/* 1, 2 *\/$/;"	m	struct:hls_codec_ctx
+audio_codec_id	hls_stream.h	/^    uint32_t        audio_codec_id;$/;"	m	struct:hls_codec_ctx
+audio_data_rate	hls_stream.h	/^    uint32_t        audio_data_rate;$/;"	m	struct:hls_codec_ctx
+audiobuf	hls_buf.h	/^   char      audiobuf[HLS_AUDIO_BUF_LEN];$/;"	m	struct:hls_fragmem
+avc_compat	hls_stream.h	/^    uint32_t        avc_compat;$/;"	m	struct:hls_codec_ctx
+avc_header	hls_stream.h	/^    hls_buf_t      *avc_header;$/;"	m	struct:hls_codec_ctx
+avc_header_buf	hls_stream.h	/^    hls_buf_t       avc_header_buf;$/;"	m	struct:hls_codec_ctx
+avc_header_data	hls_stream.h	/^    char            avc_header_data[AVC_HEADER_LEN];$/;"	m	struct:hls_codec_ctx
+avc_level	hls_stream.h	/^    uint32_t        avc_level;$/;"	m	struct:hls_codec_ctx
+avc_nal_bytes	hls_stream.h	/^    uint32_t        avc_nal_bytes;$/;"	m	struct:hls_codec_ctx
+avc_profile	hls_stream.h	/^    uint32_t        avc_profile;$/;"	m	struct:hls_codec_ctx
+avc_ref_frames	hls_stream.h	/^    uint32_t        avc_ref_frames;$/;"	m	struct:hls_codec_ctx
+base_url	hls_core.h	/^   hls_str_t          base_url;$/;"	m	struct:hls_config
+buf	hls_buf.h	/^   hls_buf_t   *buf;$/;"	m	struct:hls_chain
+buf	hls_mpegts.h	/^    char        buf[16];                $/;"	m	struct:hls_mpegts_file
+cc	hls_mpegts.h	/^    uint64_t    cc;             $/;"	m	struct:hls_mpegts_frame
+cleanup	hls_core.h	/^   uint8_t            cleanup;$/;"	m	struct:hls_config
+cleanup	hls_stream.h	/^   uint8_t            cleanup;$/;"	m	struct:hls_session
+codec_ctx	hls_stream.h	/^   hls_codec_ctx_t    codec_ctx;$/;"	m	struct:hls_session
+cpymem	hls_types.h	68;"	d
+current_ts	hls_stream.h	/^   time_t             current_ts;$/;"	m	struct:hls_session
+data	hls_buf.h	/^   uint8_t   data[HLS_MAX_TS_LEN];$/;"	m	struct:hls_mem
+data	hls_types.h	/^    char        *data;$/;"	m	struct:hls_str
+discont	hls_mpegts.h	/^    unsigned    discont:1; \/* before *\/$/;"	m	struct:hls_frag
+dtime	hls_stream.h	/^   uint32_t       dtime;$/;"	m	struct:hls_stream
+dts	hls_mpegts.h	/^    uint64_t    dts;$/;"	m	struct:hls_mpegts_frame
+dts	hls_stream.h	/^   uint64_t           dts;$/;"	m	struct:hls_session
+duration	hls_buf.h	/^   double    duration;$/;"	m	struct:hls_mem
+duration	hls_mpegts.h	/^    double      duration;$/;"	m	struct:hls_frag
+duration	hls_stream.h	/^    uint32_t        duration;$/;"	m	struct:hls_codec_ctx
+encrypt	hls_mpegts.h	/^    unsigned    encrypt:1;$/;"	m	struct:hls_mpegts_file
+end	hls_buf.h	/^   char  *end;$/;"	m	struct:hls_buf
+err	hls_bitread.h	/^    uintptr_t  err;$/;"	m	struct:hls_bitread
+ext	hls_stream.h	/^   uint8_t        ext; $/;"	m	struct:hls_stream
+fd	hls_mpegts.h	/^    int         fd;                     $/;"	m	struct:hls_mpegts_file
+fps	hls_stream.h	/^   uint64_t           fps;$/;"	m	struct:hls_session
+frag	hls_mpegts.h	/^    uint64_t             frag;$/;"	m	struct:hls_mpegts_ctx
+frag_ts	hls_mpegts.h	/^    uint64_t             frag_ts;$/;"	m	struct:hls_mpegts_ctx
+fragid	hls_buf.h	/^   uint64_t  fragid;$/;"	m	struct:hls_fragmem
+fraglen	hls_core.h	/^   uint64_t           fraglen;$/;"	m	struct:hls_config
+fraglen	hls_stream.h	/^   uint64_t           fraglen;$/;"	m	struct:hls_session
+fragmem	hls_stream.h	/^   hls_fragmem_t     *fragmem;$/;"	m	struct:hls_session
+frags	hls_mpegts.h	/^    hls_frag_t           frags[MAX_FRAGMENT_NUM]; \/* circular 2 * winfrags + 1 *\/$/;"	m	struct:hls_mpegts_ctx
+frags_per_key	hls_core.h	/^   uint64_t           frags_per_key;$/;"	m	struct:hls_config
+frags_per_key	hls_stream.h	/^   uint64_t           frags_per_key;$/;"	m	struct:hls_session
+frame_rate	hls_stream.h	/^    uint32_t        frame_rate;$/;"	m	struct:hls_codec_ctx
+g_base	hls_mpegts.c	/^hls_hashbase_t *g_base;$/;"	v
+g_session_base	hls_stream.c	/^hls_hashbase_t *g_session_base;$/;"	v
+g_verbose	hls_log.c	/^int g_verbose = 0;$/;"	v
+granularity	hls_core.h	/^   uint64_t           granularity;$/;"	m	struct:hls_config
+granularity	hls_stream.h	/^   uint64_t           granularity;$/;"	m	struct:hls_session
+hMCD	hls_stream.h	/^   void              *hMCD;$/;"	m	struct:hls_session
+hb_base	hls_cache.h	/^   uint32_t *hb_base;$/;"	m	struct:hls_hashbase
+hb_cache	hls_cache.h	/^   char     *hb_cache;$/;"	m	struct:hls_hashbase
+hb_len	hls_cache.h	/^   uint32_t  hb_len;$/;"	m	struct:hls_hashbase
+hb_objsize	hls_cache.h	/^   uint32_t  hb_objsize;$/;"	m	struct:hls_hashbase
+hb_pid	hls_cache.h	/^   uint32_t  hb_pid;$/;"	m	struct:hls_hashbase
+hb_size	hls_cache.h	/^   uint32_t  hb_size;$/;"	m	struct:hls_hashbase
+hb_time	hls_cache.h	/^   uint32_t  hb_time;$/;"	m	struct:hls_hashbase
+header	hls_stream.h	/^   hls_header_t   header;$/;"	m	struct:hls_stream
+height	hls_stream.h	/^    uint32_t        height;$/;"	m	struct:hls_codec_ctx
+hexdump	hls_utils.c	/^hexdump(char* p,int len, const char* type)$/;"	f
+hls_alloc	hls_buf.c	/^hls_alloc(int size)$/;"	f
+hls_append_aud	hls_mpegts.c	/^hls_append_aud(hls_session_t *s, hls_buf_t *out)$/;"	f
+hls_append_sps_pps	hls_mpegts.c	/^hls_append_sps_pps(hls_session_t *s, hls_buf_t *out)$/;"	f
+hls_audio_handler	hls_mpegts.c	/^hls_audio_handler(hls_session_t *s, char *buf, int len, unsigned int timestamp)$/;"	f
+hls_bitread	hls_bitread.h	/^struct hls_bitread {$/;"	s
+hls_bitread_16	hls_bitread.h	58;"	d
+hls_bitread_32	hls_bitread.h	61;"	d
+hls_bitread_64	hls_bitread.h	64;"	d
+hls_bitread_8	hls_bitread.h	55;"	d
+hls_bitread_eof	hls_bitread.h	53;"	d
+hls_bitread_err	hls_bitread.h	51;"	d
+hls_bitread_get	hls_bitread.c	/^hls_bitread_get(hls_bitread_t *br, uint32_t n)$/;"	f
+hls_bitread_golomb	hls_bitread.c	/^hls_bitread_golomb(hls_bitread_t *br)$/;"	f
+hls_bitread_init	hls_bitread.c	/^hls_bitread_init(hls_bitread_t *br, char *pos, char *last)$/;"	f
+hls_bitread_t	hls_bitread.h	/^typedef struct hls_bitread hls_bitread_t;$/;"	t
+hls_buf	hls_buf.h	/^struct hls_buf {$/;"	s
+hls_buf_t	hls_buf.h	/^typedef struct hls_buf hls_buf_t; $/;"	t
+hls_cache_mpegts_get	hls_mpegts.c	/^hls_cache_mpegts_get(uint32_t key, uint32_t &isNew) $/;"	f
+hls_cache_mpegts_init	hls_mpegts.c	/^hls_cache_mpegts_init(uint32_t key, uint32_t hashtime, uint32_t hashlen, int isCreate) {$/;"	f
+hls_cache_mpegts_remove	hls_mpegts.c	/^hls_cache_mpegts_remove(uint32_t key) {$/;"	f
+hls_cache_mpegts_search	hls_mpegts.c	/^hls_cache_mpegts_search(uint32_t key) $/;"	f
+hls_cache_session_get	hls_stream.c	/^hls_cache_session_get(uint32_t key, uint32_t &isNew)$/;"	f
+hls_cache_session_init	hls_stream.c	/^hls_cache_session_init(uint32_t key, uint32_t hashtime, uint32_t hashlen, int isCreate)$/;"	f
+hls_cache_session_remove	hls_stream.c	/^hls_cache_session_remove(uint32_t key)$/;"	f
+hls_cache_session_search	hls_stream.c	/^hls_cache_session_search(uint32_t key) $/;"	f
+hls_chain	hls_buf.h	/^struct hls_chain {$/;"	s
+hls_chain_t	hls_buf.h	/^typedef struct hls_chain hls_chain_t; $/;"	t
+hls_check_dir	hls_core.c	/^hls_check_dir(hls_config_t *ctx, char* path)$/;"	f
+hls_clean_timeout_stream	hls_stream.c	/^hls_clean_timeout_stream(uint32_t videoid) {$/;"	f
+hls_close_fragment	hls_mpegts.c	/^hls_close_fragment(hls_session_t *s)$/;"	f
+hls_codec_ctx	hls_stream.h	/^struct hls_codec_ctx {$/;"	s
+hls_codec_ctx_t	hls_stream.h	/^typedef struct hls_codec_ctx  hls_codec_ctx_t;$/;"	t
+hls_codec_parse_aac_header	hls_stream.c	/^hls_codec_parse_aac_header(hls_session_t *s, char *buf, uint32_t size)$/;"	f
+hls_codec_parse_avc_header	hls_stream.c	/^hls_codec_parse_avc_header(hls_session_t *s, char *buf, uint32_t size)$/;"	f
+hls_config	hls_core.h	/^struct hls_config {$/;"	s
+hls_config_t	hls_core.h	/^typedef struct hls_config hls_config_t;$/;"	t
+hls_copy	hls_stream.c	/^hls_copy(hls_session_t *s, void *dst, char **src, size_t n, hls_buf_t *buf)$/;"	f
+hls_copy_session	hls_stream.c	/^hls_copy_session(hls_session_t *old, hls_session_t *s)$/;"	f
+hls_create_session	hls_stream.c	/^hls_create_session(int videoid, int duration, int max_audio_delay)$/;"	f
+hls_dump_bitread	hls_bitread.c	/^hls_dump_bitread(hls_bitread_t *br)$/;"	f
+hls_flush_audio	hls_mpegts.c	/^hls_flush_audio(hls_session_t *s)$/;"	f
+hls_frag	hls_mpegts.h	/^struct hls_frag {$/;"	s
+hls_frag_set_key_frame	hls_mpegts.c	/^hls_frag_set_key_frame(hls_session_t *s)$/;"	f
+hls_frag_t	hls_mpegts.h	/^typedef struct hls_frag hls_frag_t;$/;"	t
+hls_fragmem	hls_buf.h	/^struct hls_fragmem {$/;"	s
+hls_fragmem_open	hls_mpegts.c	/^hls_fragmem_open(hls_fragmem_t *fragmem, uint64_t id )$/;"	f
+hls_fragmem_t	hls_buf.h	/^typedef struct hls_fragmem hls_fragmem_t;$/;"	t
+hls_fragmem_update_duration	hls_mpegts.c	/^hls_fragmem_update_duration(hls_fragmem_t *fragmem, double duration)$/;"	f
+hls_get_cache	hls_cache.c	/^hls_get_cache(hls_hashbase_t *base, uint32_t key, size_t size, uint32_t create)$/;"	f
+hls_get_frag	hls_mpegts.c	/^hls_get_frag(hls_session_t *s, int n)$/;"	f
+hls_get_frag_num	hls_mpegts.c	/^hls_get_frag_num(hls_session_t *s, int n)$/;"	f
+hls_get_fragment_id	hls_mpegts.c	/^hls_get_fragment_id(hls_session_t *s, uint64_t ts)$/;"	f	file:
+hls_get_shm	hls_cache.c	/^hls_get_shm(uint32_t key, size_t size, int32_t flag)$/;"	f
+hls_handle_aac_header	hls_stream.c	/^hls_handle_aac_header(hls_session_t *s, char* buf, int len)$/;"	f
+hls_handle_h264_header	hls_stream.c	/^hls_handle_h264_header(hls_session_t *s, char* buf, int len)$/;"	f
+hls_handle_stream	hls_mpegts.c	/^hls_handle_stream(hls_session_t *s)$/;"	f
+hls_hashbase	hls_cache.h	/^struct hls_hashbase {$/;"	s
+hls_hashbase_init	hls_cache.c	/^hls_hashbase_init(hls_hashbase_t *base) {$/;"	f
+hls_hashbase_t	hls_cache.h	/^typedef struct hls_hashbase hls_hashbase_t;$/;"	t
+hls_header	hls_stream.h	/^struct hls_header {$/;"	s
+hls_header_t	hls_stream.h	/^typedef struct hls_header hls_header_t;$/;"	t
+hls_init_config	hls_core.c	/^hls_init_config(hls_config_t *ctx)$/;"	f
+hls_log	hls_log.c	/^void hls_log(int level, const char* sourcefilename, int line, const char* msg, ...) {$/;"	f
+hls_mem	hls_buf.h	/^struct hls_mem {$/;"	s
+hls_mem_t	hls_buf.h	/^typedef struct hls_mem hls_mem_t;$/;"	t
+hls_movemem	hls_types.h	69;"	d
+hls_mpegts_close_file	hls_mpegts.c	/^hls_mpegts_close_file(hls_mpegts_file_t *file)$/;"	f
+hls_mpegts_ctx	hls_mpegts.h	/^struct hls_mpegts_ctx {$/;"	s
+hls_mpegts_ctx_t	hls_mpegts.h	/^typedef struct hls_mpegts_ctx hls_mpegts_ctx_t;$/;"	t
+hls_mpegts_file	hls_mpegts.h	/^struct hls_mpegts_file {$/;"	s
+hls_mpegts_file_t	hls_mpegts.h	/^typedef struct hls_mpegts_file hls_mpegts_file_t;$/;"	t
+hls_mpegts_frame	hls_mpegts.h	/^struct hls_mpegts_frame {$/;"	s
+hls_mpegts_frame_t	hls_mpegts.h	/^typedef struct hls_mpegts_frame hls_mpegts_frame_t;$/;"	t
+hls_mpegts_header	hls_mpegts.c	/^static char hls_mpegts_header[] = {$/;"	v	file:
+hls_mpegts_open_file	hls_mpegts.c	/^hls_mpegts_open_file(hls_mpegts_file_t *file, char *path)$/;"	f
+hls_mpegts_write_file	hls_mpegts.c	/^hls_mpegts_write_file(hls_mpegts_file_t *file, char *in, size_t in_size)$/;"	f
+hls_mpegts_write_frame	hls_mpegts.c	/^hls_mpegts_write_frame(hls_session_t *s, hls_mpegts_frame_t *f, hls_buf_t *b)$/;"	f
+hls_mpegts_write_header	hls_mpegts.c	/^hls_mpegts_write_header(hls_mpegts_file_t *file)$/;"	f
+hls_mpegts_write_pcr	hls_mpegts.c	/^hls_mpegts_write_pcr(char *p, uint64_t pcr)$/;"	f
+hls_mpegts_write_pts	hls_mpegts.c	/^hls_mpegts_write_pts(char *p, uint64_t fb, uint64_t pts)$/;"	f
+hls_name	hls_core.h	/^    char *hls_name;$/;"	m	struct:hls_options
+hls_next_frag	hls_mpegts.c	/^hls_next_frag(hls_session_t *s)$/;"	f
+hls_open_file	hls_types.h	55;"	d
+hls_open_fragment	hls_mpegts.c	/^hls_open_fragment(hls_session_t *s, uint64_t ts, uint64_t discont)$/;"	f
+hls_options	hls_core.h	/^struct hls_options {$/;"	s
+hls_options_t	hls_core.h	/^typedef struct hls_options hls_options_t;$/;"	t
+hls_parse_aac_header	hls_stream.c	/^hls_parse_aac_header(hls_session_t *s, uint64_t *objtype,$/;"	f
+hls_parse_args	hls_core.c	/^hls_parse_args(hls_config_t *ctx, int argc, char** argv)$/;"	f
+hls_reset_session	hls_stream.c	/^hls_reset_session(hls_session_t *s)$/;"	f
+hls_segment_file	hls_stream.c	/^hls_segment_file(hls_config_t *hls_ctx, const char* file)$/;"	f
+hls_send_playlist_to_cache	hls_mpegts.c	/^hls_send_playlist_to_cache(hls_session_t *s)$/;"	f
+hls_send_ts_to_cache	hls_mpegts.c	/^hls_send_ts_to_cache(hls_session_t *s)$/;"	f
+hls_session	hls_stream.h	/^struct hls_session {$/;"	s
+hls_session_t	hls_types.h	/^typedef struct hls_session hls_session_t;$/;"	t
+hls_str	hls_types.h	/^struct hls_str {$/;"	s
+hls_str_t	hls_types.h	/^typedef struct hls_str hls_str_t;$/;"	t
+hls_stream	hls_stream.h	/^struct hls_stream {$/;"	s
+hls_stream_ctx_t	hls_types.h	/^typedef struct hls_stream_ctx hls_stream_ctx_t;$/;"	t
+hls_stream_t	hls_stream.h	/^typedef struct hls_stream hls_stream_t;$/;"	t
+hls_tsmem_get	hls_mpegts.c	/^hls_tsmem_get(hls_fragmem_t *fragmem, uint64_t tsid)$/;"	f
+hls_update_fragments	hls_mpegts.c	/^hls_update_fragments(hls_session_t *s, uint64_t ts, int boundary, int flush_rate)$/;"	f
+hls_video_handler	hls_mpegts.c	/^hls_video_handler(hls_session_t *s, uint8_t iskey, char *packet, int packet_size, unsigned int timestamp)$/;"	f
+hls_write_fragmem_data	hls_mpegts.c	/^hls_write_fragmem_data(hls_fragmem_t *fragmem, char *buff, int len, int key) $/;"	f
+hls_write_fragmem_playlist	hls_mpegts.c	/^hls_write_fragmem_playlist(hls_fragmem_t *fragmem, char* buff, int len) $/;"	f
+hls_write_fragmem_playlist_clean	hls_mpegts.c	/^hls_write_fragmem_playlist_clean(hls_fragmem_t *fragmem) $/;"	f
+hls_write_playlist	hls_mpegts.c	/^hls_write_playlist(hls_session_t *s)$/;"	f
+id	hls_buf.h	/^   uint64_t  id;$/;"	m	struct:hls_mem
+id	hls_mpegts.h	/^    uint64_t    id;$/;"	m	struct:hls_frag
+in	hls_stream.h	/^   hls_chain_t   *in;$/;"	m	struct:hls_stream
+infile	hls_core.h	/^   hls_str_t          infile;$/;"	m	struct:hls_config
+input_file	hls_core.h	/^    char *input_file;$/;"	m	struct:hls_options
+iv	hls_mpegts.h	/^    char        iv[16];$/;"	m	struct:hls_mpegts_file
+key	hls_buf.h	/^   int32_t   key;$/;"	m	struct:hls_mem
+key	hls_mpegts.h	/^    unsigned    key:1;$/;"	m	struct:hls_frag
+key	hls_mpegts.h	/^    unsigned    key:1;$/;"	m	struct:hls_mpegts_frame
+key_frags	hls_mpegts.h	/^    uint32_t             key_frags;$/;"	m	struct:hls_mpegts_ctx
+key_url	hls_core.h	/^   hls_str_t          key_url;$/;"	m	struct:hls_config
+keys	hls_core.h	/^   uint32_t           keys;$/;"	m	struct:hls_config
+keys	hls_stream.h	/^   uint32_t           keys;$/;"	m	struct:hls_session
+last	hls_bitread.h	/^    char      *last;$/;"	m	struct:hls_bitread
+last	hls_buf.h	/^   char  *last;$/;"	m	struct:hls_buf
+len	hls_buf.h	/^   int32_t   len;$/;"	m	struct:hls_mem
+len	hls_stream.h	/^   uint32_t       len;        \/* current fragment length *\/$/;"	m	struct:hls_stream
+len	hls_types.h	/^    size_t      len;$/;"	m	struct:hls_str
+level	hls_stream.h	/^    char            level[32];$/;"	m	struct:hls_codec_ctx
+max_audio_delay	hls_core.h	/^   uint64_t           max_audio_delay;$/;"	m	struct:hls_config
+max_audio_delay	hls_stream.h	/^   uint64_t           max_audio_delay;$/;"	m	struct:hls_session
+max_fraglen	hls_core.h	/^   uint64_t           max_fraglen;$/;"	m	struct:hls_config
+max_fraglen	hls_stream.h	/^   uint64_t           max_fraglen;$/;"	m	struct:hls_session
+mem	hls_buf.h	/^   hls_mem_t mem[MAX_FRAGMENT_NUM];$/;"	m	struct:hls_fragmem
+meta	hls_stream.h	/^    hls_buf_t      *meta;$/;"	m	struct:hls_codec_ctx
+meta_version	hls_stream.h	/^    uint32_t        meta_version;$/;"	m	struct:hls_codec_ctx
+mpegts_ctx	hls_stream.h	/^   hls_mpegts_ctx_t   mpegts_ctx;$/;"	m	struct:hls_session
+name	hls_core.h	/^   hls_str_t          name;$/;"	m	struct:hls_config
+naming	hls_core.h	/^   uint8_t            naming;$/;"	m	struct:hls_config
+naming	hls_stream.h	/^   uint8_t            naming;$/;"	m	struct:hls_session
+nested	hls_core.h	/^   uint8_t            nested;$/;"	m	struct:hls_config
+nested	hls_stream.h	/^   uint8_t            nested;$/;"	m	struct:hls_session
+next	hls_buf.h	/^   hls_chain_t *next;$/;"	m	struct:hls_chain
+nfrags	hls_mpegts.h	/^    uint32_t             nfrags;$/;"	m	struct:hls_mpegts_ctx
+num_segments	hls_core.h	/^    long num_segments;$/;"	m	struct:hls_options
+num_segments	hls_core.h	/^   uint64_t           num_segments;$/;"	m	struct:hls_config
+num_segments	hls_stream.h	/^   uint64_t           num_segments;$/;"	m	struct:hls_session
+offs	hls_bitread.h	/^    uintptr_t  offs;$/;"	m	struct:hls_bitread
+opened	hls_mpegts.h	/^    unsigned             opened:1;$/;"	m	struct:hls_mpegts_ctx
+output_prefix	hls_core.h	/^    char *output_prefix;$/;"	m	struct:hls_options
+path	hls_core.h	/^   hls_str_t          path;$/;"	m	struct:hls_config
+pid	hls_mpegts.h	/^    uint64_t    pid;$/;"	m	struct:hls_mpegts_frame
+playlist	hls_buf.h	/^   char      playlist[HLS_PLAYLIST_LEN];$/;"	m	struct:hls_fragmem
+playlist_len	hls_buf.h	/^   uint32_t  playlist_len;$/;"	m	struct:hls_fragmem
+pos	hls_bitread.h	/^    char      *pos;$/;"	m	struct:hls_bitread
+pos	hls_buf.h	/^   char  *pos;$/;"	m	struct:hls_buf
+print_msg	hls_utils.c	/^void print_msg(const char *msg, int len)$/;"	f
+print_msg_extra	hls_utils.c	/^void print_msg_extra(const char *msg, int len, char* annotation)$/;"	f
+print_msg_full	hls_utils.c	/^void print_msg_full(const char *msg, int len)$/;"	f
+profile	hls_stream.h	/^    char            profile[32];$/;"	m	struct:hls_codec_ctx
+pts	hls_mpegts.h	/^    uint64_t    pts;$/;"	m	struct:hls_mpegts_frame
+rmemcpy	hls_utils.c	/^rmemcpy(void *dst, const void* src, size_t n)$/;"	f
+roomid	hls_stream.h	/^   uint32_t           roomid;$/;"	m	struct:hls_session
+sample_rate	hls_stream.h	/^    uint32_t        sample_rate;    \/* 5512, 11025, 22050, 44100 *\/$/;"	m	struct:hls_codec_ctx
+sample_size	hls_stream.h	/^    uint32_t        sample_size;    \/* 1=8bit, 2=16bit *\/$/;"	m	struct:hls_codec_ctx
+segment_duration	hls_core.h	/^    long segment_duration;$/;"	m	struct:hls_options
+sid	hls_mpegts.h	/^    uint64_t    sid;            $/;"	m	struct:hls_mpegts_frame
+size	hls_mpegts.h	/^    unsigned    size;$/;"	m	struct:hls_mpegts_file
+slicing	hls_core.h	/^   uint64_t           slicing;$/;"	m	struct:hls_config
+slicing	hls_stream.h	/^   uint64_t           slicing;$/;"	m	struct:hls_session
+start	hls_buf.h	/^   char  *start;$/;"	m	struct:hls_buf
+sync	hls_core.h	/^   uint8_t            sync;$/;"	m	struct:hls_config
+sync	hls_stream.h	/^   uint8_t            sync;$/;"	m	struct:hls_session
+tmp_m3u8_file	hls_core.h	/^    char *tmp_m3u8_file;$/;"	m	struct:hls_options
+type	hls_core.h	/^   uint8_t            type;$/;"	m	struct:hls_config
+type	hls_stream.h	/^   uint8_t            type;$/;"	m	struct:hls_session
+url_prefix	hls_core.h	/^    char *url_prefix;$/;"	m	struct:hls_options
+video_cc	hls_mpegts.h	/^    uint32_t             video_cc;$/;"	m	struct:hls_mpegts_ctx
+video_codec_id	hls_stream.h	/^    uint32_t        video_codec_id;$/;"	m	struct:hls_codec_ctx
+video_data_rate	hls_stream.h	/^    uint32_t        video_data_rate;$/;"	m	struct:hls_codec_ctx
+videoid	hls_buf.h	/^   uint32_t  videoid;$/;"	m	struct:hls_fragmem
+videoid	hls_stream.h	/^   uint32_t           videoid;$/;"	m	struct:hls_session
+width	hls_stream.h	/^    uint32_t        width;$/;"	m	struct:hls_codec_ctx
+winfrags	hls_core.h	/^   uint32_t           winfrags;$/;"	m	struct:hls_config
+winfrags	hls_stream.h	/^   uint32_t           winfrags;$/;"	m	struct:hls_session

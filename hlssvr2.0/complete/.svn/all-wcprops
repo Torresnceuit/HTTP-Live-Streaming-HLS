@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete
+END
+http_func.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_func.h
+END
+http_head.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_head.cpp
+END
+cs_tcp_complete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/cs_tcp_complete.cpp
+END
+http_rsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_rsp.cpp
+END
+ss_tcp_complete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/ss_tcp_complete.cpp
+END
+cs_udp_complete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/cs_udp_complete.cpp
+END
+http_head.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_head.h
+END
+ss_udp_complete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/ss_udp_complete.cpp
+END
+http_req.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_req.cpp
+END
+http_complete.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_complete.cpp
+END
+http_rsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_rsp.h
+END
+http_func.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_func.cpp
+END
+http_req.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/http_req.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/complete/makefile
+END

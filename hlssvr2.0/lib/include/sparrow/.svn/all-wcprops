@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow
+END
+inet_addr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/inet_addr.hpp
+END
+date_time.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/date_time.hpp
+END
+tcp_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/tcp_socket.hpp
+END
+sv_shm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/sv_shm.hpp
+END
+type_lists.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/type_lists.hpp
+END
+puid.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/puid.hpp
+END
+ext_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/ext_type.hpp
+END
+singleton.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/singleton.hpp
+END
+detail.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/detail.hpp
+END
+socket_service.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/socket_service.hpp
+END
+mem_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/mem_base.hpp
+END
+cmd_line.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/cmd_line.hpp
+END
+socket_t.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/socket_t.hpp
+END
+offset_ptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/offset_ptr.hpp
+END
+list.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/list.hpp
+END
+locks.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/locks.hpp
+END
+any_type_of.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/any_type_of.hpp
+END
+xml_parser.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/xml_parser.hpp
+END
+str_algorithm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/str_algorithm.hpp
+END
+os_wrapper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/os_wrapper.hpp
+END
+interprocess_synch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/interprocess_synch.hpp
+END
+logging.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/logging.hpp
+END
+daemons.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/daemons.hpp
+END
+shm_allocator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/shm_allocator.hpp
+END
+epoll_reactor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/epoll_reactor.hpp
+END
+hashtable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/hashtable.hpp
+END
+byte_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/byte_buffer.hpp
+END
+udp_socket.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/udp_socket.hpp
+END
+shm_hashtable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/shm_hashtable.hpp
+END
+shm_managed.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/shm_managed.hpp
+END
+noncopyable.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/noncopyable.hpp
+END
+thread_synch.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/thread_synch.hpp
+END
+unlk_queue.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/unlk_queue.hpp
+END
+array.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/array.hpp
+END
+hashbase.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/hashbase.hpp
+END
+rb_tree.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/rb_tree.hpp
+END
+mem_mgr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/lib/include/sparrow/mem_mgr.hpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/python
+END
+python_plugin_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/python/python_plugin_unittest.cc
+END
+python_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/python/python_generator.cc
+END
+python_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/python/python_generator.h
+END

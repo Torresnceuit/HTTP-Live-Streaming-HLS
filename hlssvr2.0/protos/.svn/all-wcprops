@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos
+END
+LiveProgramMgr.proto
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/LiveProgramMgr.proto
+END
+game.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/game.pb.h
+END
+LiveProgramMgr.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/LiveProgramMgr.pb.cc
+END
+rebuild_proto.sh
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/rebuild_proto.sh
+END
+LiveProgramMgr.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/LiveProgramMgr.pb.h
+END
+muxsvr.proto
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/muxsvr.proto
+END
+protoc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/protoc
+END
+muxsvr.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/muxsvr.pb.cc
+END
+muxsvr.pb.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/muxsvr.pb.h
+END
+game.proto
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/game.proto
+END
+game.pb.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protos/game.pb.cc
+END

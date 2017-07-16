@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java
+END
+java_plugin_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_plugin_unittest.cc
+END
+java_service.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_service.cc
+END
+java_helpers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_helpers.cc
+END
+java_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_service.h
+END
+java_enum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_enum.cc
+END
+java_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_helpers.h
+END
+java_enum.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_enum.h
+END
+java_enum_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_enum_field.cc
+END
+java_enum_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_enum_field.h
+END
+java_string_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_string_field.cc
+END
+java_primitive_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_primitive_field.cc
+END
+java_string_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_string_field.h
+END
+java_extension.cc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_extension.cc
+END
+java_primitive_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_primitive_field.h
+END
+java_extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_extension.h
+END
+java_file.cc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_file.cc
+END
+java_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_file.h
+END
+java_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_field.cc
+END
+java_message.cc
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_message.cc
+END
+java_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_field.h
+END
+java_generator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_generator.cc
+END
+java_doc_comment_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_doc_comment_unittest.cc
+END
+java_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_message.h
+END
+java_doc_comment.cc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_doc_comment.cc
+END
+java_message_field.cc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_message_field.cc
+END
+java_generator.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_generator.h
+END
+java_doc_comment.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_doc_comment.h
+END
+java_message_field.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protobuf/include/google/protobuf/compiler/java/java_message_field.h
+END

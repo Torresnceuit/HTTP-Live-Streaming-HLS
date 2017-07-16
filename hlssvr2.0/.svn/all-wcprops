@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/UTalkProject/!svn/ver/19270/Server/Project/Video/hlssvr/trunk/hlssvr2.0
+END
+voice_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/voice_channel.h
+END
+copy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/UTalkProject/!svn/ver/19780/Server/Project/Video/hlssvr/trunk/hlssvr2.0/copy.sh
+END
+CAudioBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/19263/Server/Project/Video/hlssvr/trunk/hlssvr2.0/CAudioBuffer.h
+END
+muxsvr_mcd_cfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/19144/Server/Project/Video/hlssvr/trunk/hlssvr2.0/muxsvr_mcd_cfg.cpp
+END
+muxsvr.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/UTalkProject/!svn/ver/18959/Server/Project/Video/hlssvr/trunk/hlssvr2.0/muxsvr.h
+END
+muxsvr_mcd_proc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/UTalkProject/!svn/ver/18959/Server/Project/Video/hlssvr/trunk/hlssvr2.0/muxsvr_mcd_proc.cpp
+END
+muxsvr_mcd_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19144/Server/Project/Video/hlssvr/trunk/hlssvr2.0/muxsvr_mcd_cfg.h
+END
+protol_process.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/UTalkProject/!svn/ver/19780/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protol_process.cpp
+END
+muxsvr_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/muxsvr_errno.h
+END
+muxsvr_mcd_proc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/muxsvr_mcd_proc.h
+END
+http.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/http.cpp
+END
+protol_process.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19206/Server/Project/Video/hlssvr/trunk/hlssvr2.0/protol_process.h
+END
+hls_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/UTalkProject/!svn/ver/19263/Server/Project/Video/hlssvr/trunk/hlssvr2.0/hls_check.c
+END
+info_channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/19144/Server/Project/Video/hlssvr/trunk/hlssvr2.0/info_channel.cpp
+END
+http.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/http.h
+END
+CP2PBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/CP2PBlock.h
+END
+live.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/live.sh
+END
+CFrameBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/CFrameBuffer.cpp
+END
+info_channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/info_channel.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/UTalkProject/!svn/ver/18959/Server/Project/Video/hlssvr/trunk/hlssvr2.0/makefile
+END
+CFrameBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/UTalkProject/!svn/ver/18893/Server/Project/Video/hlssvr/trunk/hlssvr2.0/CFrameBuffer.h
+END
+voice_channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/UTalkProject/!svn/ver/19263/Server/Project/Video/hlssvr/trunk/hlssvr2.0/voice_channel.cpp
+END

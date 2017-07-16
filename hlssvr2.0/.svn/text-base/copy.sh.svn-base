@@ -1,0 +1,4 @@
+md5sum muxsvr_mcd_run.so
+#scp muxsvr_mcd_run.so root@10.40.18.24:/home/3.0/muxsvr/bin/
+#scp -i /home/dungdv/.ssh/dungdv.ppk muxsvr_mcd_run.so root@10.40.18.24:~/
+scp -i /home/dungdv/.ssh/dungdv.ppk muxsvr_mcd_run.so root@120.138.76.182:/home/dungdv/update
